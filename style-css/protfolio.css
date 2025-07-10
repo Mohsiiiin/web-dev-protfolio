@@ -83,3 +83,25 @@ main{
     display: flex;
     justify-content: space-around;
 }
+
+/* what i do style */
+
+.skills{
+    text-align: center;
+    margin-top: 100px;
+}
+.skill-container{
+    display: flex;
+ text-align: left;
+gap: 24px;
+}
+
+.skill{
+    margin-top: 50px;
+background-color: #FFFFFF;
+ text-align: start;
+ padding: 30px;
+ border-radius: 5px;
+ box-shadow: 0 6px 50px 0 rgba(0, 0, 0, 0.06);
+}
+
